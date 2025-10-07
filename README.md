@@ -13,9 +13,13 @@ El sistema muestra la temperatura en tiempo real en la pantalla LCD y responde a
 🔥 ≥ 26 °C: LED encendido fijo y el motor se activa.
 
 <img width="590" height="321" alt="image" src="https://github.com/user-attachments/assets/c6f43db1-c063-4cde-99f8-d3cc6584e4bf" />
+
 Los materiales que utilizamos para el montaje fueron:
+
 <img width="590" height="240" alt="image" src="https://github.com/user-attachments/assets/89b66a23-05da-497f-92af-2e886bb7897f" />
+
 Esquema del circuito:
+
 <img width="590" height="396" alt="image" src="https://github.com/user-attachments/assets/568faa9b-e549-4357-a243-20cb980c7438" />
 
 Explicación del funcionamiento:
@@ -44,7 +48,9 @@ el ventilador (Motor), debe encenderse.
 <img width="749" height="497" alt="image" src="https://github.com/user-attachments/assets/7c6b4ae4-7cc0-4e86-916b-bd7aa7e0fb4e" />
 
 Autor: Angely Valentina Urbano Chaves, Yon Bayron Cordoba Ceron
+
 Curso: Sistemas Operativos
+
 Fecha: 7 de Octubre de 2025
 
 
